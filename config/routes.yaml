@@ -1,0 +1,3 @@
+tasks_create:
+    path: /tasks/create
+    controller: App\Controller\TaskController::create
